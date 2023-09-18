@@ -42,6 +42,8 @@
   align-items: center;
   justify-content: center;
   background-color: aquamarine;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 .stats li {
   display: flex;

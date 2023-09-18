@@ -15,6 +15,8 @@
   list-style: none;
   padding: 0;
   margin: 0;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 .item {
   display: flex;
@@ -23,7 +25,7 @@
   width: 60px;
   padding: 5px;
   align-items: center;
-  border: 1px solid rgb(84, 194, 188);
+  color: #fff;
 }
 .label {
   font-size: 14px;
